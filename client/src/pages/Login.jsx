@@ -198,7 +198,7 @@ const Login = () => {
                 required 
                 value={email}
                 onChange={(e) => setEmail(e.target.value)} 
-                placeholder="fawad@example.com" 
+                placeholder="student@example.com" 
                 className="w-full px-4 py-3.5 rounded-xl border border-slate-200 outline-none focus:border-blue-600 focus:ring-4 focus:ring-blue-50 transition-all text-sm" 
               />
             </div>

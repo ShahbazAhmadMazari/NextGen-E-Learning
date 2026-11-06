@@ -40,12 +40,12 @@ const seedData = async () => {
 // 2. Create Users
 // 2. Create Users
 const testStudent = await User.create({
-  name: "Fawad Ahmed", 
-  email: "fawad@test.com", 
+  name: "Shahbaz Ahmad", 
+  email: "shahbaz@test.com", 
   password_hash: hashedPass,
   role: 'student', 
   status: 'active', 
-  studentId: "STU-F-12345", 
+  studentId: "STU-S-12345", 
   bio: "Final year BS CS Student",
   isVerified: true // 🔥 Add this
 });

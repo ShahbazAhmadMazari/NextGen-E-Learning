@@ -175,7 +175,7 @@ export const generateCertificate = async (req, res) => {
           <div class="signature-wrapper">
             <img src="https://res.cloudinary.com/dnzopenf6/image/upload/v1774241476/copy_of_fawad_sign-removebg-preview_oczgwx_71f748.png" class="signature-img" />
           </div>
-          <strong>Fawad Ahmed Baig</strong><br/>
+          <strong>Shahbaz Ahmad Mazari</strong><br/>
           Lead Software Engineer
         </div>
       </div>
