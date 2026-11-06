@@ -168,8 +168,8 @@ sequenceDiagram
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ShahbazAhmadMazari/Nextgen-LMS.git
-cd Nextgen-LMS
+git clone https://github.com/ShahbazAhmadMazari/NextGen-E-Learning.git
+cd NextGen-E-Learning
 ```
 
 ### 2. Configure Environment
