@@ -16,7 +16,7 @@ const ResetPassword = () => {
 
     setLoading(true);
 try {
-      // API instance handles the Base URL (http://nextgen-lms-fawad.duckdns.org)
+      // API instance handles the Base URL
       await API.post('/auth/reset-password', { token, newPassword });
       toast.success("Password updated! Redirecting...");
       setTimeout(() => navigate('/login'), 2000);
