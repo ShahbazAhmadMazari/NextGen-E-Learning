@@ -168,8 +168,8 @@ sequenceDiagram
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/FawadAhmedBaig/nextgen-lms.git
-cd nextgen-lms
+git clone https://github.com/ShahbazAhmadMazari/Nextgen-LMS.git
+cd Nextgen-LMS
 ```
 
 ### 2. Configure Environment
@@ -370,5 +370,5 @@ This project is licensed under the **ISC License**.
 ---
 
 <p align="center">
-  Built with 💙 by <a href="https://github.com/FawadAhmedBaig"><strong>Fawad Ahmed Baig</strong></a>
+  Built with 💙 by <a href="https://github.com/ShahbazAhmadMazari"><strong>SHAHBAZ AHMAD MAZARI</strong></a>
 </p>
